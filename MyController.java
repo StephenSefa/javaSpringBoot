@@ -8,7 +8,7 @@ public class MyController {
 	
 	@GetMapping("/getData")
 	public String getData() {
-		return "Learning Rest API Spring to the console";
+		return "Java SpringBoot";
 	}
 
 }
